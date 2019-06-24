@@ -1,0 +1,83 @@
+body {
+  color: #000;
+  margin: 0;
+  text-align: center;
+font-family: 'Nanum Brush Script', cursive;
+background-color: #f2f6f5;
+
+}
+
+p{
+  font-size: 1.875rem;
+  color: #3ba8d9;
+}
+h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  font-family: 'Rock Salt', cursive;
+  font-size: 500%;
+  background: -webkit-linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,253,243,1) 35%, rgba(252,176,69,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 2;
+}
+h2{
+  font-family: 'Rock Salt', cursive;
+  background: -webkit-linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,253,243,1) 35%, rgba(252,176,69,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Rock Salt', cursive;
+  background: -webkit-linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,253,243,1) 35%, rgba(252,176,69,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgba(29,253,243,1);
+  border-width: 10px;
+  width: 4.5%;
+  margin: 100px auto;
+}
+
+
+
+.cartoon-1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cartoon-2{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+.cartoon-3{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.elchavo{
+  height:175px;
+  width:175px;
+  float: left;
+  margin-left: 30px;
+}
+.elchapulin{
+  height:300px;
+  width:300px;
+  float: right;
+}
+.speedyg{
+  height:300px;
+  width:300px;
+  float:left;
+
+}
